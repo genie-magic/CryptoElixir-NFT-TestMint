@@ -1,2 +1,5 @@
-# CryptoElixir-Test
-Test Task for CryptoElixir
+# web3 nft mint test
+```
+yarn install
+yarn start
+```
